@@ -382,7 +382,7 @@ button {
 @media screen and (min-resolution: 192dpi) {
   .section-hero-img {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      url(../images/hero-mobile-background@2x.jpg);
+      url(..//images/hero-mobile-background@2x.jpg);
   }
 }
 
@@ -426,7 +426,7 @@ button {
   .section-hero-img {
     min-width: 768px;
     min-height: 436px;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-tablet-bg.png);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(..//images/hero-tablet-bg.jpg);
   }
   .h-one {
     font-size: 56px;
@@ -442,7 +442,7 @@ button {
 @media screen and (min-resolution: 192dpi) {
   .section-hero-img {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      url(../images/hero-tablet-bg@2x.png);
+      url(..//images/hero-tablet-bg@2x.jpg);
   }
 }
 
@@ -450,7 +450,7 @@ button {
   .section-hero-img {
     min-width: 1440px;
     min-height: 600px;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-background.jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(..//images/hero-background.jpg);
   }
   .hero-button {
     margin-top: 48px;
@@ -460,7 +460,7 @@ button {
 @media screen and (min-resolution: 192dpi) {
   .section-hero-img {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-      url(../images/hero-background@2x.png);
+      url(..//images/hero-background@2x.jpg);
   }
 }
 
